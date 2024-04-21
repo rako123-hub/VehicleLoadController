@@ -14,7 +14,7 @@
 #include "TCPDataClient.h"
 #include "LoadControlCalculatur.h"
 
-std::string version("1.0.4");
+std::string version("1.0.5");
 
 
 int main(int argc, char *argv[])
